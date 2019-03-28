@@ -6,3 +6,5 @@ Added some features:
 - Boardcast.
 - Private messages.
 - Apply observer design pattern.
+
+Check the branch "vinh-dev" for more details.
